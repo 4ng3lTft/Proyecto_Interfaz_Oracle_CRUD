@@ -107,4 +107,4 @@ Maven descarga automáticamente la dependencia `ojdbc11-21.9.0.0`.
 
 ## Autor
 
-**Angel** — ISC 4to Semestre, ITSC
+**Juan Angel Tufiño Ruiz** — ISC 4to Semestre, ITSC
