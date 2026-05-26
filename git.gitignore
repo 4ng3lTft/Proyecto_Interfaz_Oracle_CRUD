@@ -1,0 +1,7 @@
+# Ignorar credenciales reales
+config.properties
+
+# Ignorar archivos compilados de Java
+*.class
+target/
+build/
